@@ -1,18 +1,67 @@
-# 💫 About Me:
-🚀 I’m currently working on: A hybrid anomaly detection system for healthcare transactions, utilizing  of Isolation Forest and LSTM to identify complex fraudulent patterns.<br><br>👯 I’m looking to collaborate on: Advanced healthcare diagnostics or fintech security projects that require high-precision data pipelines.<br><br>🤝 I’m looking for help with: Optimizing LSTM hyperparameters for high-velocity transaction streams and improving model interpretability (SHAP/LIME).<br><br>🌱 I’m currently learning: The nuances of hybrid model ensembling and real-time data ingestion for Data Science and Machine Learning.<br><br><br>💬 Ask me about: Python, SQL, and why your current EDA process is probably missing the "why" behind the outliers.
+<h1 align="center">Hi 👋, I'm Mohammad Irfan Hussain</h1>
+<h3 align="center">Data Scientist & ML Engineer | High-Velocity Data Specialist</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=irfu1s&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhd_irf_n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/irfanhussain-irfu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@K Mohammad Irfan Hussain Irfan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irfuirfanhussain@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=irfu1s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=irfu1s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfu1s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Data+Scientist+%26+ML+Engineer;Hybrid+Model+Architect;XAI+%26+SHAP+Specialist" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=irfu1s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 💻 Architecting hybrid anomaly detection systems fusing Isolation Forests & LSTMs  
+- 📊 Deploying production-grade financial ML pipelines (FundSight AI)  
+- 🧠 Enforcing model explainability (XAI) using SHAP and LIME  
+- 🌱 Stress-testing LSTM hyperparameters for high-velocity transaction streams  
+- 🎯 Goal: Architecting zero-tolerance data pipelines for healthcare and fintech  
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+</p>
+
+## 📌 Projects
+- 🔹 **Healthcare Fraud Detection:** Hybrid Isolation Forest & LSTM Autoencoder  
+- 🔹 **FundSight AI:** Mutual fund simulation with strict 60-month historical filtering  
+- 🔹 **Aadhaar Analytics:** Large-scale demographic data pipeline for UIDAI  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=irfu1s&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfu1s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🔥 Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=irfu1s&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+- 📧 Email: irfuirfanhussain@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/irfanhussain-irfu
+- 💻 GitHub: https://github.com/irfu1s
+- 🌐 Mastodon: https://mastodon.social/@K_Mohammad_Irfan_Hussain_Irfan
+- 📸 Instagram: https://instagram.com/mhd_irf_n
